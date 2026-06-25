@@ -31,9 +31,9 @@ It is a **single HTML file** with **no build step, no dependencies, no backend, 
 - **Live (GitHub Pages):** `https://amarbh.github.io/forgewall/` 
 - **Offline:** download [`index.html`](index.html), double-click it, done. It runs fully offline with zero network requests.
 
-<!-- Add a screenshot to make the README pop:
+
 ![Forgewall screenshot](docs/screenshot.png)
--->
+
 
 ## Features
 
