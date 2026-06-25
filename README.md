@@ -78,7 +78,7 @@ Download `index.html` and open it in any modern browser. There's nothing to inst
 Because it's self-contained, you can drop it into any site via an `<iframe>`:
 
 ```html
-<iframe src="https://amarbh.github.io/forgewall/"
+<iframe src="https://your-username.github.io/forgewall/"
         allow="clipboard-write"
         style="display:block;width:100%;height:100vh;border:0;"></iframe>
 ```
