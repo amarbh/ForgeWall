@@ -32,7 +32,7 @@ It is a **single HTML file** with **no build step, no dependencies, no backend, 
 - **Offline:** download [`index.html`](index.html), double-click it, done. It runs fully offline with zero network requests.
 
 
-![Forgewall screenshot](docs/screenshot.png)
+![Forgewall screenshot](/screenshot.png)
 
 
 ## Features
